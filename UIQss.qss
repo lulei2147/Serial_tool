@@ -1,0 +1,23 @@
+*{
+
+}
+
+#widget_up, #widget_mid{
+    background-color: #11bb11;
+}
+
+#widget_down{
+    background-color: #eebb11;
+}
+
+QPlainTextEdit{
+    background-color: black;
+    color: #ff5533;
+    font-size: 15px;
+}
+
+#btn_port_indict{
+    border-radius: 12px;
+    background-color: gray;
+    border: 2px solid white;
+}
